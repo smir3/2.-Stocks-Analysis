@@ -36,15 +36,25 @@ Results
 
 What are the advantages and disadvantages of refactoring code?
 
-Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
+   Disadvantages
+   The disadvantages of refractoring the code is the additional time-taken to revisit the script, understand it, analyze it, and edit it. Especially when you are refactoring 
+   someone else's code, there is the additional sctruggle of understanding someone else's logic. It would be helpful if they have included logic labels for each individual code.
+   Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
 
-Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
+   Advantages
+   First attempts at a code will not always be the best way to accomplish a task, therefore refactoring is a common part of the job. Refactoring a code works to make a code more 
+   efficient by reducing the number of steps, using less memory, impriving the logic of the code, and making it easier for future users to understand and read.  
 
 How do these pros and cons apply to refactoring the original VBA script?
+
+  When refactoring the VBA script for this challenge, I did experience the con of trying to re-understand the original script in order to edit it effectively. This process did 
+  take a considerable amount of time. However, refactoring the code was useful as it reduced the execution time consdierably.Refactoring the code also improved logical flow by 
+  removing unecessary code and making the script more concise. Reducing the execution time and improving efficiency is important since this code is intended to be used 
+  by others. 
 
 Conclusion
    I would not recommend that Steve's parents invest in any of the stocks with positive returns in 2017 which also have negative returns in 2018. This is because the 
    stock has demonstrated worse performance in the most recent year. Specifically, Steve's parents are not recommended to invest in DAQO. 
    
-   The only stock which had positive returns in 2017 and 2018 was ENPHtherefore Steve's parents can look into investing into this company. They could also look into conducting further research into this company to project future performance 
-   before investings (example looking into news reportings, journals etc.)
+   The only stock which had positive returns in 2017 and 2018 was ENPH. Therefore, I would recommend that Steve's parents look into investing into this company. They could also 
+   look into conducting further research to project future performance of this company before investings (ex. look into news reportings, journals etc.). 

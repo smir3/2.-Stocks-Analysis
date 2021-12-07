@@ -8,8 +8,8 @@
   stocks in addition to DAQO stocks.
   
   ## Purpose 
-  Steve has created an excel file containing a list of green energy company stock data and has tasked me with analyzing the   
-  performance of these stocks. The purpose is to generate a list of recommended stocks for his parents to invest in. 
+  Steve has created an excel file containing a list of green energy company stock data and has tasked me with analyzing the
+performance of these stocks. The purpose is to generate a list of recommended stocks for his parents to invest in. 
 
 ## Results
    

@@ -57,3 +57,5 @@
    
    The only stock which had positive returns in 2017 and 2018 was ENPH. Therefore, I would recommend that Steve's parents look into investing into this company. They could also 
    look into conducting further research to project the future performance of this company before investings (ex. look into news reportings, journals etc.). 
+
+

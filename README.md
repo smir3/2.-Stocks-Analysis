@@ -4,8 +4,9 @@
 
   ## Background
   As fossil fuels get depleted Steve's parents believe green energy will become more popular and the main source of energy. They   
-  want to invest all their money into DAQO New Energy Corp. He has been asked by his parents to investigate the green energy 
-  stock market.  Steve is concerned about diversifying their stocks, and so he is interested in analyzing a handful of green energy stocks in addition to DAQO stocks.
+  want to invest all their money into DAQO New Energy Corp. He has been asked by his parents to investigate the green energy stock 
+  market.  Steve is concerned about diversifying their stocks, and so he is interested in analyzing a handful of green energy 
+  stocks in addition to DAQO stocks.
   
   ## Purpose 
   Steve has created an excel file containing a list of green energy company stock data and has tasked me with analyzing the   
